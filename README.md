@@ -10,8 +10,13 @@ The problems consists of 5 different levels that are increasing in difficulty. T
 The easiest problems. The tasks was to convert text into braille code.
 
 - Problem 2 (level 2) `math` `ad-hoc`: <br>
-Math problems related to linear equations but it can be simplified into `O(1)` algorithm.
+Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
 
+## Finished State
+It is said that Google foo.bar is part of Google hiring recruitment, but unfortunately since 2020, it is not used anymore.
+This is the screenshot of final state of the challenge:
 
+<img src="img/1.PNG" alt="final state" width="700"/>
 
+*Finished state of the challenge*
 
