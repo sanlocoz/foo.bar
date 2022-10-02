@@ -6,7 +6,7 @@ For more detail about this challenge can be found in this <a href ="https://towa
 
 ## Problem-solving details
 The problems consists of 5 different levels that are increasing in difficulty. The details of the challenge elaborated below:
-- Problem 1 (level 1) `tag:` `array accessing` `ad-hoc` `indexing`:
+- Problem 1 (level 1) `array accessing` `ad-hoc` `indexing`: <br>
 The easiest problems. The tasks was to convert text into braille code.
 
 
