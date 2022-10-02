@@ -9,6 +9,9 @@ The problems consists of 5 different levels that are increasing in difficulty. T
 - Problem 1 (level 1) `array accessing` `ad-hoc` `indexing`: <br>
 The easiest problems. The tasks was to convert text into braille code.
 
+- Problem 2 (level 2) `math` `ad-hoc`: <br>
+Math problems related to linear equations but it can be simplified into `O(1)` algorithm.
+
 
 
 
