@@ -9,6 +9,6 @@ The problems consists of 5 different levels that are increasing in difficulty. T
 - Problem 1 (level 1):
 The easiest problems. The tasks was to convert text into braille code.
 
-`array accessing` `ad-hoc` `indexing`
+`tag:` `array accessing` `ad-hoc` `indexing`
 
 
