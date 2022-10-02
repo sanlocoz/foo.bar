@@ -12,6 +12,27 @@ The easiest problems. The tasks was to convert text into braille code.
 - Problem 2 (level 2) `math` `ad-hoc`: <br>
 Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
 
+- Problem 3 (level 2) `math` `ad-hoc`: <br>
+Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
+
+- Problem 4 (level 3) `math` `ad-hoc`: <br>
+Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
+
+- Problem 5 (level 3) `math` `ad-hoc`: <br>
+Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
+
+- Problem 6 (level 3) `math` `ad-hoc`: <br>
+Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
+
+- Problem 7 (level 4) `math` `ad-hoc`: <br>
+Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
+
+- Problem 8 (level 4) `math` `ad-hoc`: <br>
+Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
+
+- Problem 9 (level 5) `math` `ad-hoc`: <br>
+Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
+
 ## Finished State
 It is said that Google foo.bar is part of Google hiring recruitment, but unfortunately since 2020, it is not used anymore.
 This is the screenshot of final state of the challenge:
