@@ -12,8 +12,8 @@ The easiest problems. The tasks was to convert text into braille code.
 - Problem 2 (level 2) `math` `ad-hoc`: <br>
 Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
 
-- Problem 3 (level 2) `math` `big number` `special cases`: <br>
-Math problems that must be solved with big number library or specialized library for big number computation `> 64 bit float`.
+- Problem 3 (level 2) `greedy` `big number` `special cases`: <br>
+Greedy approach problem that must be solved with big number library or specialized library for big number computation `> 64 bit integer`.
 It also consists of specialized cases (corner cases) which have to be considered separately.
 
 - Problem 3 (level 2) `math` `ad-hoc`: <br>
