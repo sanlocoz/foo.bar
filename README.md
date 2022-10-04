@@ -24,8 +24,9 @@ This problem is about counting the combinations using recursive algorithm. In or
 - Problem 5 (level 3) `big number` `ad-hoc`: <br>
 The tasks related to ad-hoc problem that must be solved with big number computation library or algorithm.
 
-- Problem 6 (level 3) `math` `ad-hoc`: <br>
-Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
+- Problem 6 (level 3) `dynamic programming` `matrix adjacency` `counting techniques`: <br>
+The problems related to counting combinations in a map (similar to raster data type), which has 4 direction neighborhood adjacency.
+In order to solve the problem we have to implement dynamic programming, I use bottom-up approach in this problem unlike the problem 4 which use top-down approach.
 
 - Problem 7 (level 4) `math` `ad-hoc`: <br>
 Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
