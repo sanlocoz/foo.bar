@@ -36,7 +36,9 @@ Dynamic programming using top down approach where the order of the state are sto
 Therefore the most appropriate is using basic queue with no variable that is prioritized in the order.
 
 - Problem 9 (level 5) `dynamic programming` `bitmasks` `counting techniques`: <br>
-Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
+The problem is related to counting all possible combinations of before state (time = now -1) of 2D matrix, given certain rules that translate timestep t-1 to t.
+It can be solved with dynamic programming using bitmasks state, because there is relations between previous column to the possible value in current column and the input size is sufficient to be represented as bitmasks state.
+The value that must be computed is all possible combinations of 2D matrix state at time = t-1 given the 2D matrix in time t. The 2D matrix represents some chemicals that are dissolved in the atmosphere.
 
 ## Finished State
 It is said that Google foo.bar is part of Google hiring recruitment, but unfortunately since 2020, it is not used anymore.
