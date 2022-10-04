@@ -12,10 +12,10 @@ The easiest problems. The tasks was to convert text into braille code.
 - Problem 2 (level 2) `math` `ad-hoc`: <br>
 Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
 
-- Problem 3 (level 2) `math` `ad-hoc`: <br>
-Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
+- Problem 3 (level 2) `math` `big number` `special cases`: <br>
+Math problems that must be solved with big number library or specialized library for big number computation `> 64 bit float`.
 
-- Problem 4 (level 3) `math` `ad-hoc`: <br>
+- Problem 3 (level 2) `math` `ad-hoc`: <br>
 Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
 
 - Problem 5 (level 3) `math` `ad-hoc`: <br>
