@@ -7,7 +7,7 @@ For more detail about this challenge can be found in this <a href ="https://towa
 ## Problem-solving details
 The problems consists of 5 different levels that are increasing in difficulty. The details of the challenge elaborated below:
 - Problem 1 (level 1) `array accessing` `ad-hoc` `indexing`: <br>
-The easiest problems. The tasks was to convert text into braille code.
+The easiest problems. The tasks is to convert text into braille code.
 
 - Problem 2 (level 2) `math` `ad-hoc`: <br>
 Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
@@ -19,7 +19,7 @@ For the basic idea, this library treat number like sequences of number, therefor
 It also consists of specialized cases (corner cases) which have to be considered separately.
 
 - Problem 4 (level 2) `combinatorics` `counting techniques` `dynamic programming`: <br>
-Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
+This problem is about counting the combinations using recursive algorithm. In order to speed up the algorithm in terms of time complexity, we have to add cache (memoization) about the state that already visited.
 
 - Problem 5 (level 3) `math` `ad-hoc`: <br>
 Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
