@@ -21,8 +21,8 @@ It also consists of specialized cases (corner cases) which have to be considered
 - Problem 4 (level 2) `combinatorics` `counting techniques` `dynamic programming`: <br>
 This problem is about counting the combinations using recursive algorithm. In order to speed up the algorithm in terms of time complexity, we have to add cache (memoization) about the state that already visited.
 
-- Problem 5 (level 3) `math` `ad-hoc`: <br>
-Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
+- Problem 5 (level 3) `big number` `ad-hoc`: <br>
+The tasks related to ad-hoc problem that must be solved with big number computation library or algorithm.
 
 - Problem 6 (level 3) `math` `ad-hoc`: <br>
 Math problems (about configuration of pegs) related to linear equations but it can be simplified into `O(1)` algorithm.
