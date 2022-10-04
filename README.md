@@ -29,7 +29,7 @@ The problems related to counting combinations in a map (similar to raster data t
 In order to solve the problem we have to implement dynamic programming, I use bottom-up approach in this problem unlike the problem 4 which use top-down approach (Actually for most of problems both of approach could be used interchangeably).
 
 - Problem 7 (level 4) `greedy` `graph adjacency` `union set`: <br>
-It is related to maximization problem using greedy approach that also use graph adjacency and chechking if set is disjoint or not.
+It is related to maximization problem using greedy approach that also use graph adjacency and checking if set is disjoint or not.
 
 - Problem 8 (level 4) `dynamic programming` `queue` `graph traversal` `maximization`: <br>
 Dynamic programming using top down approach where the order of the state are stored in queue using FIFO scheme. Actually maximization problems usually using priority queue, but it is not applicable in this model because it can contain infinite steps and negative weight.
