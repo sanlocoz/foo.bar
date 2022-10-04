@@ -14,6 +14,8 @@ Math problems (about configuration of pegs) related to linear equations but it c
 
 - Problem 3 (level 2) `greedy` `big number` `special cases`: <br>
 Greedy approach problem that must be solved with big number library or specialized library for big number computation `> 64 bit integer`.
+I used Java programming language, therefore it is more easy because Java offers `java.math.BigInteger` library that can handle big number computations.
+For the basic idea, this library treat number like sequences of number, therefore it is array-like data structure that can contains many numbers.
 It also consists of specialized cases (corner cases) which have to be considered separately.
 
 - Problem 3 (level 2) `math` `ad-hoc`: <br>
